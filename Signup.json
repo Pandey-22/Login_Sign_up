@@ -1,0 +1,14 @@
+{
+     "user": [
+          {
+               "username": "dular",
+               "password": "dular@123",
+               "Profile": {
+                    "Description": "5",
+                    "D.O.B": "16/08/2006",
+                    "Gender": "female",
+                    "Hobbies": "listening song"
+               }
+          }
+     ]
+}
